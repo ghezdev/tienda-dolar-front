@@ -1,11 +1,11 @@
 import React, { useState } from "react";
 import { Container } from "@mui/material";
 import { CSSTransition } from "react-transition-group";
-import { getLocalStorage } from "./utils/localStorage";
-import Player from "./views/register";
-import Game from "./views/game";
-import "./App.css";
-import * as styles from "./App-styles";
+import { getLocalStorage } from "../utils/localStorage";
+import Player from "../views/register";
+import Game from "../views/game";
+import "./css-transition.css";
+import * as styles from "./styles";
 
 function App() {
   const [showLogin, setShowLogin] = useState(
