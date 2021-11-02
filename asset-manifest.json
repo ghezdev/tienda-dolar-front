@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/tienda-dolar-front/static/css/main.a617e044.chunk.css",
-    "main.js": "/tienda-dolar-front/static/js/main.ddad7a50.chunk.js",
-    "main.js.map": "/tienda-dolar-front/static/js/main.ddad7a50.chunk.js.map",
-    "runtime-main.js": "/tienda-dolar-front/static/js/runtime-main.3077a213.js",
-    "runtime-main.js.map": "/tienda-dolar-front/static/js/runtime-main.3077a213.js.map",
-    "static/js/2.0dcf8f2e.chunk.js": "/tienda-dolar-front/static/js/2.0dcf8f2e.chunk.js",
-    "static/js/2.0dcf8f2e.chunk.js.map": "/tienda-dolar-front/static/js/2.0dcf8f2e.chunk.js.map",
-    "static/js/3.960fa168.chunk.js": "/tienda-dolar-front/static/js/3.960fa168.chunk.js",
-    "static/js/3.960fa168.chunk.js.map": "/tienda-dolar-front/static/js/3.960fa168.chunk.js.map",
+    "main.css": "/tienda-dolar-front/static/css/main.b6fb1a25.chunk.css",
+    "main.js": "/tienda-dolar-front/static/js/main.2f4a3ab3.chunk.js",
+    "main.js.map": "/tienda-dolar-front/static/js/main.2f4a3ab3.chunk.js.map",
+    "runtime-main.js": "/tienda-dolar-front/static/js/runtime-main.962dfe20.js",
+    "runtime-main.js.map": "/tienda-dolar-front/static/js/runtime-main.962dfe20.js.map",
+    "static/css/2.a8abe2a7.chunk.css": "/tienda-dolar-front/static/css/2.a8abe2a7.chunk.css",
+    "static/js/2.f3dfb8c5.chunk.js": "/tienda-dolar-front/static/js/2.f3dfb8c5.chunk.js",
+    "static/js/2.f3dfb8c5.chunk.js.map": "/tienda-dolar-front/static/js/2.f3dfb8c5.chunk.js.map",
+    "static/js/3.803e714f.chunk.js": "/tienda-dolar-front/static/js/3.803e714f.chunk.js",
+    "static/js/3.803e714f.chunk.js.map": "/tienda-dolar-front/static/js/3.803e714f.chunk.js.map",
     "index.html": "/tienda-dolar-front/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/tienda-dolar-front/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.0dcf8f2e.chunk.js.LICENSE.txt": "/tienda-dolar-front/static/js/2.0dcf8f2e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/tienda-dolar-front/static/media/logo.6ce24c58.svg"
+    "static/css/2.a8abe2a7.chunk.css.map": "/tienda-dolar-front/static/css/2.a8abe2a7.chunk.css.map",
+    "static/css/main.b6fb1a25.chunk.css.map": "/tienda-dolar-front/static/css/main.b6fb1a25.chunk.css.map",
+    "static/js/2.f3dfb8c5.chunk.js.LICENSE.txt": "/tienda-dolar-front/static/js/2.f3dfb8c5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3077a213.js",
-    "static/js/2.0dcf8f2e.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.ddad7a50.chunk.js"
+    "static/js/runtime-main.962dfe20.js",
+    "static/css/2.a8abe2a7.chunk.css",
+    "static/js/2.f3dfb8c5.chunk.js",
+    "static/css/main.b6fb1a25.chunk.css",
+    "static/js/main.2f4a3ab3.chunk.js"
   ]
 }
